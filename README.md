@@ -6,7 +6,7 @@
 
 ### Official implementation of our IROS 2026 paper
 
- E-TIDE predicts future event-camera representations from past event sequences in a **deterministic, single forward pass**—preserving motion-critical structure while remaining compact enough for real-time robotic perception.
+
 
 </div>
 
@@ -14,9 +14,14 @@
 
 ## At a Glance
 
+ E-TIDE predicts future event-camera representations from past event sequences in a **deterministic, single forward pass**—preserving motion-critical structure while remaining compact enough for real-time robotic perception.
+
 | ⚡ **Inference Time** | 🧠 **Parameters** | 💾 **VRAM Usage** | 🔮 **Future Rollout** |
 |:---:|:---:|:---:|:---:|
 | **3.1 ms** | **0.4M** | **0.12 GB** | **10 steps** |
+
+- 🎯 **Structure-preserving:** improves event overlap and downstream segmentation/tracking performance.
+- 🤖 **Robotics-ready:** designed for low-latency event-camera perception.
 
 ## Qualitative Forecasting
 
@@ -46,10 +51,8 @@ https://github.com/user-attachments/assets/af13cbe7-ce6c-462a-8be7-2e9e8df6d417
   <sub>Qualitative rollout of future event representations predicted by E-TIDE.</sub>
 </p>
 
-## Highlights
 
-- 🎯 **Structure-preserving:** improves event overlap and downstream segmentation/tracking performance.
-- 🤖 **Robotics-ready:** designed for low-latency event-camera perception.
+
 
 ## Release Status
 
