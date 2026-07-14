@@ -16,10 +16,9 @@
 
 E-TIDE forecasts **polarity-separated future event structure** with a fully parallel, deterministic network—without iterative sampling, recurrent updates, or large-scale pretraining.
 
-</div>
-
 - 🎯 **Motion structure that survives the forecast:** preserves thin boundaries, object contours, and temporally coherent event traces.
 - 🚀 **Useful beyond prediction:** forecasted events achieve the strongest downstream segmentation and tracking results in our evaluation.
+- 🤖 **Built for latency-critical robotics:** delivers predictable single-pass inference under tight compute and memory budgets.
 
 | ⚡ **Inference Time** | 🧠 **Parameters** | 💾 **VRAM Usage** |
 |:---:|:---:|:---:|
