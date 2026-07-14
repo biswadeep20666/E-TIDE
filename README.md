@@ -7,7 +7,11 @@
 E-TIDE is a lightweight event-based motion forecasting model that predicts future event-camera representations from past event sequences using a deterministic, single-pass architecture.
 
 
-https://github.com/user-attachments/assets/4caa654e-ce01-494b-a0b3-e36090f56d5e
+
+
+https://github.com/user-attachments/assets/af13cbe7-ce6c-462a-8be7-2e9e8df6d417
+
+
 
 
 
