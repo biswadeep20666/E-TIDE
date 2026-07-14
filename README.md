@@ -16,12 +16,14 @@
 
  E-TIDE predicts future event-camera representations from past event sequences in a **deterministic, single forward pass**—preserving motion-critical structure while remaining compact enough for real-time robotic perception.
 
+- 🎯 **Structure-preserving:** improves event overlap and downstream segmentation/tracking performance.
+- 🤖 **Robotics-ready:** designed for low-latency event-camera perception.
+
 | ⚡ **Inference Time** | 🧠 **Parameters** | 💾 **VRAM Usage** | 🔮 **Future Rollout** |
 |:---:|:---:|:---:|:---:|
 | **3.1 ms** | **0.4M** | **0.12 GB** | **10 steps** |
 
-- 🎯 **Structure-preserving:** improves event overlap and downstream segmentation/tracking performance.
-- 🤖 **Robotics-ready:** designed for low-latency event-camera perception.
+
 
 ## Qualitative Forecasting
 
