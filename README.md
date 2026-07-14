@@ -6,13 +6,6 @@
 
 **Official implementation of our IROS 2026 paper**
 
-<p>
-  <img src="https://img.shields.io/badge/IROS-2026-2563EB?style=for-the-badge" alt="IROS 2026" />
-  <img src="https://img.shields.io/badge/Inference-3.1%20ms-059669?style=for-the-badge" alt="3.1 ms inference" />
-  <img src="https://img.shields.io/badge/Parameters-0.4M-D97706?style=for-the-badge" alt="0.4M parameters" />
-  <img src="https://img.shields.io/badge/VRAM-0.12%20GB-7C3AED?style=for-the-badge" alt="0.12 GB VRAM" />
-</p>
-
 E-TIDE predicts future event-camera representations from past event sequences in a **deterministic, single forward pass**—preserving motion-critical structure while remaining compact enough for real-time robotic perception.
 
 </div>
@@ -21,9 +14,9 @@ E-TIDE predicts future event-camera representations from past event sequences in
 
 ## At a Glance
 
-| ⚡ **3.1 ms** | 🧠 **0.4M** | 💾 **0.12 GB** | 🔮 **10 steps** |
+| ⚡ **Inference Time** | 🧠 **Parameters** | 💾 **VRAM Usage** | 🔮 **Future Rollout** |
 |:---:|:---:|:---:|:---:|
-| Inference time | Parameters | VRAM usage | Future rollout |
+| **3.1 ms** | **0.4M** | **0.12 GB** | **10 steps** |
 
 ## Qualitative Forecasting
 
@@ -55,9 +48,6 @@ https://github.com/user-attachments/assets/af13cbe7-ce6c-462a-8be7-2e9e8df6d417
 
 ## Highlights
 
-- ⚡ **Real-time forecasting:** generates a 10-step future rollout in **3.1 ms**.
-- 🧠 **Extremely compact:** contains only **0.4M parameters**.
-- 💾 **Low memory footprint:** requires just **0.12 GB VRAM**.
 - 🎯 **Structure-preserving:** improves event overlap and downstream segmentation/tracking performance.
 - 🤖 **Robotics-ready:** designed for low-latency event-camera perception.
 
