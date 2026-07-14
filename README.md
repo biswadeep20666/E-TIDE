@@ -1,3 +1,4 @@
+<img width="4380" height="1402" alt="comparison_plot_v3" src="https://github.com/user-attachments/assets/c8b1e872-7328-4952-80a4-8d028699e9c5" />
 
 
 # 🌊⚡ E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences (🤖 IROS 2026)
