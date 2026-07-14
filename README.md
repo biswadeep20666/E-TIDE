@@ -6,7 +6,7 @@
 
 ### Official implementation of our IROS 2026 paper
 
-### E-TIDE predicts future event-camera representations from past event sequences in a **deterministic, single forward pass**—preserving motion-critical structure while remaining compact enough for real-time robotic perception.
+ E-TIDE predicts future event-camera representations from past event sequences in a **deterministic, single forward pass**—preserving motion-critical structure while remaining compact enough for real-time robotic perception.
 
 </div>
 
