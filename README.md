@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### One pass. Ten future frames. No diffusion.
+### One pass. No diffusion.
 
 E-TIDE forecasts **polarity-separated future event structure** with a fully parallel, deterministic network—without iterative sampling, recurrent updates, or large-scale pretraining.
 
