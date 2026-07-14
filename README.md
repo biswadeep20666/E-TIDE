@@ -1,4 +1,4 @@
-<img width="4380" height="1402" alt="comparison_plot_v3" src="https://github.com/user-attachments/assets/c8b1e872-7328-4952-80a4-8d028699e9c5" />
+
 
 
 # 🌊⚡ E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences (🤖 IROS 2026)
@@ -7,10 +7,10 @@
 
 E-TIDE is a lightweight event-based motion forecasting model that predicts future event-camera representations from past event sequences using a deterministic, single-pass architecture.
 
+<img width="4380" height="1402" alt="comparison_plot_v3" src="https://github.com/user-attachments/assets/c8b1e872-7328-4952-80a4-8d028699e9c5" />
 
 
 
-https://github.com/user-attachments/assets/af13cbe7-ce6c-462a-8be7-2e9e8df6d417
 
 
 
@@ -26,3 +26,4 @@ https://github.com/user-attachments/assets/af13cbe7-ce6c-462a-8be7-2e9e8df6d417
 
 Code and trained models will be released here.
 
+https://github.com/user-attachments/assets/af13cbe7-ce6c-462a-8be7-2e9e8df6d417
