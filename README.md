@@ -1,6 +1,7 @@
 
 
 
+
 # 🌊⚡ E-TIDE: Fast, Structure-Preserving Motion Forecasting from Event Sequences (🤖 IROS 2026)
 
 **Official repository for the IROS 2026 paper**
@@ -12,7 +13,7 @@ E-TIDE is a lightweight event-based motion forecasting model that predicts futur
 
 
 
-
+<img width="4772" height="2353" alt="multi_grid_new3" src="https://github.com/user-attachments/assets/1bbefeef-618c-4389-bdc2-812502207009" />
 
 
 
