@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌊 E-TIDE 
+# 🌊 E-TIDE 💫
 
 ## Fast, Structure-Preserving Motion Forecasting from Event Sequences
 
